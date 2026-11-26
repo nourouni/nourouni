@@ -4,7 +4,7 @@ Software engineer focused on applied AI, machine learning and intelligent softwa
 
 ## Areas of interest
 
-Applied AI · Natural language processing · ML engineering · Backend and full-stack development
+Applied AI · Natural language processing · ML engineering · Backend development
 
 ## Academic & Collaborative Projects
 

@@ -6,6 +6,20 @@ Software engineer focused on applied AI, machine learning and intelligent softwa
 
 Applied AI · Natural language processing · ML engineering · Backend development
 
+## Featured Project
+
+### [ATLAS — Intelligent Banking Decision Support System](https://github.com/nourouni/ATLAS)
+
+*Engineering graduation project · 2026*
+
+Designed and implemented an integrated decision-support system for retail and enterprise banking, combining behavioral segmentation, balance forecasting, product propensity modeling, ontology-driven hybrid recommendations and a grounded conversational assistant.
+
+**Technical stack:** Python, Django, FastAPI, PostgreSQL, scikit-learn, LangGraph, RAG, RDF/OWL.
+
+The public portfolio edition includes source code, methodology, tests and a reduced nine-product demonstration catalogue with synthetic customer fixtures.
+
+[Explore ATLAS](https://github.com/nourouni/ATLAS)
+
 ## Academic & Collaborative Projects
 
 ### [News Emotion & Tone Analysis](https://github.com/nourouni/news-emotion-tone-analysis)

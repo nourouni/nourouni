@@ -6,7 +6,7 @@ Software engineer focused on applied AI, machine learning and intelligent softwa
 
 Applied AI · Natural language processing · ML engineering · Backend development
 
-## Featured Project
+## Internship Projects
 
 ### [ATLAS — Intelligent Banking Decision Support System](https://github.com/nourouni/ATLAS)
 
